@@ -1,6 +1,8 @@
 Marta Train Interface - Encouraging Public Transportation
 
 ## Marta Interface Demo
+<img width="1721" alt="Screenshot 2024-03-11 at 7 09 14 PM" src="https://github.com/tejaswini-rb/marta-train-interface/assets/114116509/fc1df8d4-57a5-4c0a-bf62-7a7fd17032d1">
+
 https://github.com/tejaswini-rb/project1-s24-tejaswini/assets/114116509/5f45a8eb-641d-4fe8-9d3a-cb395227d600
 
 
