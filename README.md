@@ -1,4 +1,4 @@
-# Project 1 - Marta Interface
+Marta Train Interface
 
 ## Marta Interface Demo
 https://github.com/tejaswini-rb/project1-s24-tejaswini/assets/114116509/5f45a8eb-641d-4fe8-9d3a-cb395227d600
