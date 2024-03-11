@@ -6,7 +6,7 @@ https://github.com/tejaswini-rb/project1-s24-tejaswini/assets/114116509/5f45a8eb
 
 
 ## Desciption
-In this project, you'll be creating a frontend that graphically displays train information with filtering options. Using your React knowledge, you will implement hooks, props, and state management in this Marta Interface!
+In this project, I created a frontend that graphically displays train information with filtering options. I used hooks, props, routing, conditional rendering, and state management in this Marta Interface!
 
 ## Setting Up
 - Fork this repository, set the owner to BoG-Dev-Bootcamp-S24, and name it `project1-s24-yourname`
